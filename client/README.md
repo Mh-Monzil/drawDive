@@ -12,8 +12,4 @@ Welcome to **DrawDive** — your ultimate portal for drawing and painting. Dive 
 - **Community Testimonials:** Gain insights from the experiences shared by other artists who use our products.
 - **Secure and Private Additions:** Logged-in users can safely add new items to the website, enhancing our collection.
 
-## Selected Category
 
-**Painting and Drawing**
-
-For more information or to browse our products, please visit [DrawDive](https://draw-dive.web.app/).
