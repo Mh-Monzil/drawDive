@@ -28,7 +28,7 @@ To get Tourio up and running on your local machine, follow these steps:
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/mh-monzil/drawDive.git
-    cd altChoice
+    cd drawDive
     ```
 
 2. **Navigate to the frontend directory:**
